@@ -6395,7 +6395,7 @@ transition:.5s;
 .di-small-2{
 	position:absolute;
 	width:40%;
-	height:40%;
+	height:50%;
 	right:-10%;
 	bottom:-10%;
 	z-index:1;
