@@ -1902,7 +1902,7 @@ border:solid 1px #ddd;
 	border:solid 1px #222;
 	color:#fff;
 	font-weight:500;
-	font-size:12px;
+	font-size:20px;
 	border-radius:0;
 	-moz-border-radius:0;
 	-webkit-border-radius:0;
@@ -2102,7 +2102,7 @@ border:solid 1px #ddd;
 	
 	a.btn-custom,
 	input.btn-custom{
-	font-size:13px;
+	font-size:20px;
 	color:#222;
 	letter-spacing:3px;
 	line-height:normal;
